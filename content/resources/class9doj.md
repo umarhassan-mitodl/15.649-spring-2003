@@ -5,6 +5,8 @@ description: Justice Department Reaches Settlement With Gemstar-TV Guide For Ill
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/98629fcd7a542a9ebdefdf9629145dc5_class9doj.pdf
 file_size: 101008
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

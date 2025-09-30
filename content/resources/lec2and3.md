@@ -4,6 +4,8 @@ description: Tax considerations in deal structures
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/86f7d2b3f117f951dece2a9973e6379a_lec2and3.pdf
 file_size: 22093
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
