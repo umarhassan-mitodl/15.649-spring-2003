@@ -4,8 +4,6 @@ description: Securities Exchange Act of 1934
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/140f17a08fa66078e31167889d96b5b6_class13gutfreund.pdf
 file_size: 868413
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

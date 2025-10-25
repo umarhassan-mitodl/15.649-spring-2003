@@ -4,8 +4,6 @@ description: The distressed company
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/1c147b4420a4044808530580260f98ca_lec10.pdf
 file_size: 36354
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

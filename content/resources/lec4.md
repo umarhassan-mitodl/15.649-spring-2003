@@ -4,8 +4,6 @@ description: Putting the deal together
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/f1b933731f1971d50ab59a5294b8f7d4_lec4.pdf
 file_size: 53750
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

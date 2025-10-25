@@ -4,8 +4,6 @@ description: Going Private and Other Change of Control Transactions
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/0ce2b16c37d0a480c1a26efa1f4ee327_class6leclaireslides.pdf
 file_size: 400376
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
